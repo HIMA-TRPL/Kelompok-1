@@ -6,12 +6,12 @@
 
 ### [01] BPH - [NAMA_PANITIA_01]
 * <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_01]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** Dani
+* **Jabatan:** PSDM
+* **TTL:** 10-10-10
+* **Nomer Handphone:** 12345678900
+* **Username GitHub:** @Danipinion
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [NAMA_PANITIA_02]
