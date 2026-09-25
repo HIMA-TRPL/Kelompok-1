@@ -1,14 +1,14 @@
 # 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
 
 ## 👤 I. DATA DIRI MAHASISWA BARU
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+
+- **Nama Lengkap:** AULIA FATMAWATI
+- **NIM:** 264311006
+- **TTL:** MADIUN, 09 NOVEMBER 2007
+- **Nomer Handphone:** 08132605112
+- **Nama Kelompok:** LARAVEL
+- **Asal Daerah:** KABUPATEN MADIUN
+- **Asal Sekolah:** SMK BP SUBULUL HUDA
+- **Fun Fact:** KEPOAN, TIDAK SUKA MAKANAN PEDAS, SUKA KETAWA
 
 ---
-
