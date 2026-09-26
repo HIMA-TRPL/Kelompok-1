@@ -4,10 +4,10 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [NAMA_PANITIA_01]
+### [01] BPH - AKBAR
 * <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
+* **Nama Panitia:** AKBAR
+* **Jabatan:** KETUA HIMA
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_01]
