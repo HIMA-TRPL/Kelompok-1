@@ -4,7 +4,7 @@
 
 ## 🏫 Kelas 1A
 
-### [01] [264311001] - [ADHINIA ALKURRATU AINNI]
+### 01 264311001 - ADHINIA ALKURRATU AINNI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** ADHINIA ALKURRATU AINNI
@@ -16,7 +16,7 @@
 - **Asal Sekolah:** SMAN 1 NGLAMES
 - **Fun Fact:** BAIK
 
-### [02] [264311002] - [ADLY NOURUS ZAMAN ASSIDIQ]
+### 02 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
@@ -232,7 +232,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [20] [264311020] - [MAHIJA PARAMA URDHA]
+### 20 264311020 - MAHIJA PARAMA URDHA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** MAHIJA PARAMA URDHA
@@ -242,9 +242,9 @@
 - **Nama Kelompok:** LARAVEL
 - **Asal Daerah:** KABUPATEN MADIUN
 - **Asal Sekolah:** SMKS AL-ISLAM JORESAN
-- **Fun Fact:** HIDUP
+- **Fun Fact:** baik
 
-### [21] [264311021] - MUHAMMAD RIDWAN NAZIM
+### 21 264311021 - MUHAMMAD RIDWAN NAZIM
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
