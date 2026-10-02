@@ -4,7 +4,7 @@
 
 ## 🏫 Kelas 1A
 
-### 01 264311001 - ADHINIA ALKURRATU AINNI
+### 01. 264311001 - ADHINIA ALKURRATU AINNI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** ADHINIA ALKURRATU AINNI
@@ -16,7 +16,7 @@
 - **Asal Sekolah:** SMAN 1 NGLAMES
 - **Fun Fact:** BAIK
 
-### 02 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
+### 02. 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
@@ -40,7 +40,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [04] [264311004] - AFRIN RACHMAD SETIO
+### 04. 264311004 - AFRIN RACHMAD SETIO
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** AFRIN RACHMAD SETIO
@@ -64,7 +64,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [06] [264311006] - [AULIA FATMAWATI]
+### 06. 264311006 - AULIA FATMAWATI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** AULIA FATMAWATI
@@ -76,7 +76,7 @@
 - **Asal Sekolah:** SMK BP SUBULUL HUDA
 - **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
 
-### [07] [264311007] - [AURELYSTA BUNGA DHIAS MAWARNI]
+### 07. 264311007 - AURELYSTA BUNGA DHIAS MAWARNI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** AURELYSTA BUNGA DHIAS MAWARNI
@@ -88,7 +88,7 @@
 - **Asal Sekolah:** SMAN 1 MOJOSARI
 - **Fun Fact:** LOVE MATCHA N CAPYBARA
 
-### [08] [264311008] - BERTHA SAMPOERNA
+### 08. 264311008 - BERTHA SAMPOERNA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** BERTHA SAMPOERNA
@@ -100,7 +100,7 @@
 - **Asal Sekolah:** SLONCOM
 - **Fun Fact:** [FUN_FACT]
 
-### [09] [264311009] - [BRAMANTA SETYA BAGASKARA]
+### 09. 264311009 - BRAMANTA SETYA BAGASKARA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** BRAMANTA SETYA BAGASKARA
@@ -124,7 +124,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [11] [264311011] - [DHAFIN HASYA ZAKI]
+### 11. 264311011 - DHAFIN HASYA ZAKI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** DHAFIN HASYA ZAKI
@@ -136,7 +136,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [12] [264311012] - [DIMAS PRAMODYA BAGASKARA]
+### 12. 264311012 - DIMAS PRAMODYA BAGASKARA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** DIMAS PRAMODYA BAGASKARA
@@ -148,7 +148,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [13] [264311013] - [EDGAR RIZKI PUTRA NOVARIYANTO]
+### 13. 264311013 - EDGAR RIZKI PUTRA NOVARIYANTO
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** EDGAR RIZKI PUTRA NOVARIYANTO
@@ -160,7 +160,7 @@
 - **Asal Sekolah:** SMKN 1 GEGER
 - **Fun Fact:** AKU PEMULA
 
-### [14] [264311014] - ELVAN SYAHPUTRA IDHAM
+### 14. 264311014 - ELVAN SYAHPUTRA IDHAM
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
@@ -172,7 +172,7 @@
 - **Asal Sekolah:** SMKN 1 MEJAYAN
 - **Fun Fact:** [FUN_FACT]
 
-### [15] [264311015] - [FAKHRIYATUL MUZAKKINA]
+### 15. 264311015 - FAKHRIYATUL MUZAKKINA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** FAKHRIYATUL MUZAKKINA
@@ -184,7 +184,7 @@
 - **Asal Sekolah:** SMKN 2 KRAKSAAN
 - **Fun Fact:** GA BISA TIDUR KALO GA NYETEL MUSIK
 
-### [16] [264311016] - [FATIKHA ARTEMISIA]
+### 16. 264311016 - FATIKHA ARTEMISIA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** FATIKHA ARTEMISIA
@@ -196,7 +196,7 @@
 - **Asal Sekolah:** SMAN 1 MAOSPATI
 - **Fun Fact:** [FUN_FACT]
 
-### [17] [264311017] - JELITA PALUPI KUSUMA WARDANI
+### 17. 264311017 - JELITA PALUPI KUSUMA WARDANI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** JELITA PALUPI KUSUMA WARDANI
@@ -232,7 +232,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### 20 264311020 - MAHIJA PARAMA URDHA
+### 20. 264311020 - MAHIJA PARAMA URDHA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** MAHIJA PARAMA URDHA
@@ -244,7 +244,7 @@
 - **Asal Sekolah:** SMKS AL-ISLAM JORESAN
 - **Fun Fact:** baik
 
-### 21 264311021 - MUHAMMAD RIDWAN NAZIM
+### 21. 264311021 - MUHAMMAD RIDWAN NAZIM
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
@@ -268,7 +268,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [23] [264311023] - NASHWA NADIA NURLATIFA
+### 23. 264311023 - NASHWA NADIA NURLATIFA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** NASHWA NADIA NURLATIFA
@@ -280,7 +280,7 @@
 - **Asal Sekolah:** SMAN 5 Taruna Brawijaya
 - **Fun Fact:** KAGI REWATCH MARVEL
 
-### [24] [264311024] - [NGAZIMATUL KHUSNA]
+### 24. 264311024 - NGAZIMATUL KHUSNA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** NGAZIMATUL KHUSNA
@@ -292,7 +292,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [25] [264311025] - RAFIQ IMAM ZAINI
+### 25. 264311025 - RAFIQ IMAM ZAINI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** RAFIQ IMAM ZAINI
@@ -304,7 +304,7 @@
 - **Asal Sekolah:** SMAN 1 MAOSPATI
 - **Fun Fact:** SELALU JADI SECOND CHOICE
 
-### [26] [264311026] - RAHMA FAUZI CAHYA SAPUTRA
+### 26. 264311026 - RAHMA FAUZI CAHYA SAPUTRA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** RAHMA FAUZI CAHYA SAPUTRA
@@ -328,7 +328,7 @@
 - **Asal Sekolah:** [ASAL_SEKOLAH]
 - **Fun Fact:** [FUN_FACT]
 
-### [28] [264311028] - [RHAHMA DWI SEKARSARI]
+### 28. 264311028 - RHAHMA DWI SEKARSARI
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** RHAHMA DWI SEKARSARI
@@ -340,7 +340,7 @@
 - **Asal Sekolah:** SMKN 1 LENGKONG
 - **Fun Fact:** MINUM TEH GABISA TIDUR
 
-### [29] [264311029] - [RIFQI ADYASTA MAHARDIKA]
+### 29. 264311029 - RIFQI ADYASTA MAHARDIKA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** RIFQI ADYASTA MAHARDIKA
