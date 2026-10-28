@@ -16,7 +16,7 @@
 * **Fun Fact:** BAIK
 
 ### [02] 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002 - ADLY NOURUS ZAMAN ASSIDIQ.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002_adly .jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
 * **NIM:** 264311002
 * **TTL:** 08 JANUARI 2008
