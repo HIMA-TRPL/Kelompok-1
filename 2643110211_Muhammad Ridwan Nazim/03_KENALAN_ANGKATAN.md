@@ -49,7 +49,7 @@
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
 ### [05] 264311005 - ANIS ALI SOHIB
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS ALI SOHIB.heic" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS ALI SOHIB.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANIS ALI SOHIB
 * **NIM:** 264311005
 * **TTL:** MAGETAN, 26 MARET 2008
