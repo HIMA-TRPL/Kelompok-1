@@ -519,7 +519,7 @@
 
 ### [45] Volunteer - Ervindy Anjuni Nurmasari
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
 - *Nama Panitia:* Ervindy Anjuni Nurmasari
 - *Jabatan:* Volunteer
 - *TTL:* Madiun, 21 Juni 2006
