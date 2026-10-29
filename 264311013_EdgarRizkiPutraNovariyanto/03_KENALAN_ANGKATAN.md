@@ -136,17 +136,6 @@
 * **Asal Sekolah:** SMK 1 JENANGAN
 * **Fun Fact:** Cadel
 
-### [13] 264311013 - EDGAR RIZKI PUTRA NOVARIYANTO
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013 - EDGAR RIZKI PUTRA NOVARIYANTO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** EDGAR RIZKI PUTRA NOVARIYANTO
-* **NIM:** 264311013
-* **TTL:** MADIUN, 17 NOVEMBER 2007
-* **Nomer Handphone:** 085649416080
-* **Nama Kelompok:** LARAVEL
-* **Asal Daerah:** MADIUN
-* **Asal Sekolah:** SMKN 1 GEGER
-* **Fun Fact:** aku mah pemulaa
-
 ### [14] 264311014 - ELVAN SYAHPUTRA IDHAM
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014 - ELVAN SYAHPUTRA IDHAM.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
