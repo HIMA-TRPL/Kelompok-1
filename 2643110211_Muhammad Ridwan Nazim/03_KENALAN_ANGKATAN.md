@@ -148,7 +148,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### [14] 264311014 - ELVAN SYAHPUTRA IDHAM
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014 - ELVAN SYAHPUTRA IDHAM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014 - ELVAN SYAHPUTRA IDHAM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
 * **NIM:** 264311014
 * **TTL:** MADIUN, 08 MARET 2008
