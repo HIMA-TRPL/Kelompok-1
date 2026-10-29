@@ -506,6 +506,28 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
+### [44] Volunteer - Galang
+
+- <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- *Nama Panitia:* -
+- *Jabatan:* Volunteer
+- *TTL:* -
+- *Nomer Handphone:* -
+- *Username GitHub:* -
+- *Asal Daerah:* -
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [45] Volunteer - Ervindy Anjuni Nurmasari
+
+- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- *Nama Panitia:* Ervindy Anjuni Nurmasari
+- *Jabatan:* Volunteer
+- *TTL:* Madiun, 21 Juni 2006
+- *Nomer Handphone:* -
+- *Username GitHub:* @erov1n
+- *Asal Daerah:* Madiun
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
 ### [46] Volunteer - Nadya Nur Kamilia
 
 - <img src="assets/PANITIA/Volunteer/Relawan - Nadya Nur Kamilia.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
