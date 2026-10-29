@@ -16,10 +16,10 @@
 * **Fun Fact:** BAIK
 
 ### [02] 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002_adly .jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002 - ADLY NOURUS ZAMAN ASSIDIQ.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
 * **NIM:** 264311002
-* **TTL:** 08 JANUARI 2008
+* **TTL:** Malaysia, 08 Januari 2008
 * **Nomer Handphone:** 081315871890
 * **Nama Kelompok:** FLASK
 * **Asal Daerah:** PONOROGO
@@ -112,7 +112,7 @@
 * **Nama Kelompok:** SVELTE
 * **Asal Daerah:** MADIUN
 * **Asal Sekolah:** SMAN 1 GEGER
-* **Fun Fact:** cool
+* **Fun Fact:** Cool
 
 ### [11] 264311011 - DHAFIN HASYA ZAKI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011 - DHAFIN HASYA ZAKI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -129,7 +129,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012 - DIMAS PRAMODYA BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DIMAS PRAMODYA BAGASKARA
 * **NIM:** 264311012
-* **TTL:** 05 MEI 2008
+* **TTL:** PONOROGO, 05 MEI 2008
 * **Nomer Handphone:** 0881036039069
 * **Nama Kelompok:** SPRING
 * **Asal Daerah:** PONOROGO
@@ -163,7 +163,7 @@
 * **Nama Lengkap:** FAKHRIYATUL MUZAKKINA
 * **NIM:** 264311015
 * **TTL:** PROBOLINGGO, 16 JULI 2008
-* **Nomer Handphone:** 08580402815
+* **Nomer Handphone:** 8580402815
 * **Nama Kelompok:** SPRING
 * **Asal Daerah:** PROBOLINGGO
 * **Asal Sekolah:** SMKN 2 KRAKSAAN
@@ -255,7 +255,7 @@
 * **Nama Kelompok:** SPRING
 * **Asal Daerah:** BOJONEGORO
 * **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
-* **Fun Fact:** lagi rewatch marvel💚
+* **Fun Fact:** lagi rewatch marvel
 
 ### [24] 264311024 - NGAZIMATUL KHUSNA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL KHUSNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -277,7 +277,7 @@
 * **Nama Kelompok:** SYMFONY
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** SMAN 1 MAOSPATI
-* **Fun Fact:** SELALU JADI SECOND CHOICE
+* **Fun Fact:** suka pecut ai
 
 ### [26] 264311026 - RAHMA FAUZI CAHYA SAPUTRA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026 - RAHMA FAUZI CAHYA SAPUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -328,7 +328,7 @@
 * **Nama Lengkap:** ZAHRO CHOIRUN LATIFAH
 * **NIM:** 264311030
 * **TTL:** MADIUN, 15 MEI 2007
-* **Nomer Handphone:** 089622274040
+* **Nomer Handphone:** 89622274040
 * **Nama Kelompok:** LARAVEL
 * **Asal Daerah:** MADIUN
 * **Asal Sekolah:** MAN 1 KOTA MADIUN
@@ -347,7 +347,7 @@
 * **Nama Kelompok:** DJANGO
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** SMAN 1 KARAS
-* **Fun Fact:** gk kuat makan makanan pedas
+* **Fun Fact:** tidak kuat dengan makanan pedas
 
 ### [32] 264311032 - AHMAD RAISYA AL IQSAN
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032 - AHMAD RAISYA AL IQSAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -391,7 +391,7 @@
 * **Nama Kelompok:** FLUTTER
 * **Asal Daerah:** KOTA MADIUN
 * **Asal Sekolah:** SMAN 01 MADIUN
-* **Fun Fact:** bersin" habis ngekek
+* **Fun Fact:** bersin bersin habis ngekek
 
 ### [36] 264311036 - ANNISA NIMASTURNA MEYSARAHMA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036 - ANNISA NIMASTURNA MEYSARAHMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -413,7 +413,7 @@
 * **Nama Kelompok:** RAILS
 * **Asal Daerah:** Kota Magetan
 * **Asal Sekolah:** SMAN 1 Sukomoro
-* **Fun Fact:** Nangis kalau makan pedas
+* **Fun Fact:** anak spotify
 
 ### [38] 264311038 - ARDHAN IRSYAD MAULANA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038 - ARDHAN IRSYAD MAULANA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -457,7 +457,7 @@
 * **Nama Kelompok:** RAILS
 * **Asal Daerah:** NGAWI
 * **Asal Sekolah:** SMAN 1 NGAWI
-* **Fun Fact:** jadi Gooner
+* **Fun Fact:** jadi Backburner
 
 ### [42] 264311042 - GADING FANDY RAYA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311042 - GADING FANDY RAYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -465,10 +465,10 @@
 * **NIM:** 264311042
 * **TTL:** MAGETAN, 04 JUNI 2007
 * **Nomer Handphone:** 085894457828
-* **Nama Kelompok:**
+* **Nama Kelompok:** -
 * **Asal Daerah:** MAGETAN
-* **Asal Sekolah:**
-* **Fun Fact:**
+* **Asal Sekolah:** -
+* **Fun Fact:** -
 
 ### [43] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -490,7 +490,7 @@
 * **Nama Kelompok:** FLUTTER
 * **Asal Daerah:** BREBES
 * **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
-* **Fun Fact:**
+* **Fun Fact:** pengen kaya
 
 ### [45] 264311045 - KEYLILA EDENIA VINCA SUSANTO
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045 - KEYLILA EDENIA VINCA SUSANTO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -514,16 +514,16 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [47]  - 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/ - .png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:**
-* **NIM:**
-* **TTL:**
-* **Nomer Handphone:**
-* **Nama Kelompok:**
-* **Asal Daerah:**
-* **Asal Sekolah:**
-* **Fun Fact:**
+### [47] 264311047 - MOHAMAD FATIR
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047 - MOHAMAD FATIR.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MOHAMAD FATIR
+* **NIM:** 264311047
+* **TTL:** MADIUN, 22 MEI 2007
+* **Nomer Handphone:** 085855805726
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMKN 1 GEGER
+* **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [48] 264311048 - Muhammad Amirul Hafidz
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048 - Muhammad Amirul Hafidz.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -534,7 +534,7 @@
 * **Nama Kelompok:** RAILS
 * **Asal Daerah:** KAB.PONOROGO
 * **Asal Sekolah:** SMKN 1 JENANGAN
-* **Fun Fact:** awas ya ITS tahun depan
+* **Fun Fact:** awas ya
 
 ### [49] 264311049 - Muhammad Mahlayan
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049 - Muhammad Mahlayan.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -556,7 +556,7 @@
 * **Nama Kelompok:** django
 * **Asal Daerah:** kab. ngawi
 * **Asal Sekolah:** sman 1 kedunggalar
-* **Fun Fact:** gabut dikit pengen makan
+* **Fun Fact:** Gabut dikit
 
 ### [51] 264311051 - Nazhwa Al Karana Putri
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Al Karana Putri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -597,10 +597,10 @@
 * **NIM:** 264311054
 * **TTL:** MADIUN, 22 FEBRUARI 2008
 * **Nomer Handphone:** 085724871983
-* **Nama Kelompok:**
+* **Nama Kelompok:** -
 * **Asal Daerah:** KAB. MADIUN
 * **Asal Sekolah:** SMKS Al-Basyariyah
-* **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
+* **Fun Fact:** "Hei!! Antek-Antek Feodalis !!!"
 
 ### [55] 264311055 - RAIZZAN ULAYYA TAQQI
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055 - RAIZZAN ULAYYA TAQQI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -613,9 +613,9 @@
 * **Asal Sekolah:** SMAN 5 Madiun
 * **Fun Fact:** gk suka makan pedes
 
-### [56] 264311056 - RESTU PRAYUGA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYUGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** RESTU PRAYUGA
+### [56] 264311056 - RESTU PRAYOGA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYOGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
 * **TTL:** PONOROGO, 19 JANUARI 2008
 * **Nomer Handphone:** 083134846000
@@ -639,7 +639,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058 - Sakhiya Azam Khoirunni'am.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sakhiya Azam Khoirunni'am
 * **NIM:** 264311058
-* **TTL:** PONOROGO 12 AGUSTUS 2008
+* **TTL:** PONOROGO, 06 APRIL 2007
 * **Nomer Handphone:** 083139897766
 * **Nama Kelompok:** DJANGO
 * **Asal Daerah:** PONOROGO
@@ -749,9 +749,9 @@
 * **Asal Sekolah:** SMKN 2 SURAKARTA
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
-### [68] 264311068 - EVAN BHAGASKARA
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068 - EVAN BHAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** EVAN BHAGASKARA
+### [68] 264311068 - f
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068 - f.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** f
 * **NIM:** 264311068
 * **TTL:** SRAGEN, 19 JANUARI 2008
 * **Nomer Handphone:** 082134870069
