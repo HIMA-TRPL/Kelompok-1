@@ -506,6 +506,17 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
+### [46] Volunteer - Nadya Nur Kamilia
+
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- *Nama Panitia:* Nadya Nur Kamilia
+- *Jabatan:* Volunteer
+- *TTL:* Madiun, 01 September 2006
+- *Nomer Handphone:* 085731873063
+- *Username GitHub:* @nanayaaa
+- *Asal Daerah:* Madiun
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ## 🏛️ Lainnya
