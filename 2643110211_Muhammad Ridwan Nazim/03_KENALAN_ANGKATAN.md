@@ -750,7 +750,7 @@
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
 ### [68] 264311068 - EVAN BHAGASKARA
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068 - EVAN BAGASKARA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068 - EVAN BHAGASKARA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** EVAN BHAGASKARA
 * **NIM:** 264311068
 * **TTL:** SRAGEN, 19 JANUARI 2008
