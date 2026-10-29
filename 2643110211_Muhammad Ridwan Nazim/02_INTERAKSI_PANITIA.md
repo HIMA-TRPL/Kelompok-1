@@ -518,7 +518,7 @@
 
 ### [45] Volunteer - Ervindy Anjuni Nurmasari
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Ervindy Anjuni Nurmasari
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 21 Juni 2006
@@ -529,7 +529,7 @@
 
 ### [46] Volunteer - Nadya Nur Kamilia
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="Nadya Nur Kamilia.png" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.jpeg" alt="Nadya Nur Kamilia.png" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nadya Nur Kamilia
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 01 September 2006
