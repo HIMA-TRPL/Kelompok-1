@@ -749,9 +749,9 @@
 * **Asal Sekolah:** SMKN 2 SURAKARTA
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
-### [68] 264311068 - f
+### [68] 264311068 - EVAN BHAGASKARA
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068 - f.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** f
+* **Nama Lengkap:** EVAN BHAGASKARA
 * **NIM:** 264311068
 * **TTL:** SRAGEN, 19 JANUARI 2008
 * **Nomer Handphone:** 082134870069
