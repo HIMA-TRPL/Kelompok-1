@@ -349,17 +349,6 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** tidak kuat dengan makanan pedas
 
-### 32 264311032 - Ahmad Raisya Al Iqsan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Ahmad Raisya Al Iqsan
-* **NIM:** 264311032
-* **TTL:** Ponorogo, 27 November 2007
-* **Nomer Handphone:** 0881036972398
-* **Nama Kelompok:** Laravel
-* **Asal Daerah:** Ponorogo
-* **Asal Sekolah:** SMKS AL-ISLAM JORESAN
-* **Fun Fact:** SUKA HEALING
-
 ### 33 264311033 - Akbar Putra Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Akbar Putra Pratama
