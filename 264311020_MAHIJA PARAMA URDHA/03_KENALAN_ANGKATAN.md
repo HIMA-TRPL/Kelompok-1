@@ -772,7 +772,7 @@
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
 ### 11 264311070 - IKHZANIERO ARDYANA JUNIAR
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070 - IKHZANIERO ARDYANA JUNIAR.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070 - IKHZANIERO ARDYANA JUNIAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** IKHZANIERO ARDYANA JUNIAR
 * **NIM:** 264311070
 * **TTL:** MAGETAN, 07 JUNI 2007
