@@ -196,7 +196,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Riyan Zakaria Zulkarnain
-- **Jabatan:** Koordinator 
+- **Jabatan:** Koordinator
 - **TTL:** Ponorogo, 7 September 2005
 - **Nomer Handphone:** 085172421215
 - **Username GitHub:** @Riyanzakaria
@@ -207,7 +207,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Mohammad Dani T..png" alt="Muhammad Dani T." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Mohammad Dani T.
-- **Jabatan:** Staff 
+- **Jabatan:** Staff
 - **TTL:** Denpasar, 21 Maret 2006
 - **Nomer Handphone:** 0895808475151
 - **Username GitHub:** @Danipinion
