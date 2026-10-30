@@ -505,38 +505,6 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Galang Surya Prasetyo
-
-- <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.png" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** Galang Surya Prasetyo
-- **Jabatan:** Volunteer
-- **TTL:** Tenggarong, 19 Februari 2007
-- **Nomer Handphone:** 081247074623
-- **Username GitHub:** @PrassHere
-- **Asal Daerah:** Kalimantan Timur
-<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
-
-### [45] Volunteer - Ervindy Anjuni Nurmasari
-
-- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** Ervindy Anjuni Nurmasari
-- **Jabatan:** Volunteer
-- **TTL:** Madiun, 21 Juni 2006
-- **Nomer Handphone:** 
-- **Username GitHub:** @erov1n
-- **Asal Daerah:** Madiun
-<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
-
-### [46] Volunteer - Nadya Nur Kamilia
-- <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** Nadya Nur Kamilia
-- **Jabatan:** Volunteer
-- **TTL:** Madiun, 01 September 2006
-- **Nomer Handphone:** 085731873063
-- **Username GitHub:** @nanayaaa
-- **Asal Daerah:** Madiun
-<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
-
 ---
 
 ## 🏛️ Lainnya
