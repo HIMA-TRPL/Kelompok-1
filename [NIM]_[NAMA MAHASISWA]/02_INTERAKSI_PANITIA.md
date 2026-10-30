@@ -250,7 +250,7 @@
 
 ### [22] PSDM - Azza Auliyaul F.
 
-- <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/azza.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Azza Auliyaul F.
 - **Jabatan:** -
 - **TTL:** -
@@ -344,13 +344,16 @@
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-Nama panitia : Raihan Firdaus Alfaritsi
-Divisi : PDD
-Jabatan : Anggota
-TTL : 24 September 2005
-No.hp : +62 895-4059-71849
-Username github : hannnzu
-Daerah asal : Ngawi
+### [30] PDD - Raihan Firdaus Alfaritsi
+
+- <img src="assets/PANITIA/PDD/.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Raihan Firdaus Alfaritsi
+- **Jabatan:** staff
+- **TTL:** Ngawi, 25 September 2005
+- **Nomer Handphone:** 895405971849
+- **Username GitHub:**  hannnzu
+- **Asal Daerah:** Ngawi
+<!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
 
