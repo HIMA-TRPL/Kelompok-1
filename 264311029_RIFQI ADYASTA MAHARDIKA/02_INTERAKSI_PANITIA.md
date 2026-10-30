@@ -90,7 +90,7 @@
 - <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Dzakwan Daris Fakhruddin
 - **Jabatan:** Anggota
-- **TTL:** Madiun, 13 April 06
+- **TTL:** Madiun, 13 April 2006
 - **Nomer Handphone:** 085163200636
 - **Username GitHub:** @dzadafa
 - **Asal Daerah:** Madiun
@@ -370,7 +370,7 @@
 - <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Daffa Hafist Atha Kuncoro
 - **Jabatan:** Staff Muda
-- **TTL:** Surabaya, 16 Januari 07
+- **TTL:** Surabaya, 16 Januari 2007
 - **Nomer Handphone:** 081329827262
 - **Username GitHub:** @Hafist-ak08
 - **Asal Daerah:** Sidoarjo
@@ -381,7 +381,7 @@
 - <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Dinda Rahmawati
 - **Jabatan:** Staff Muda
-- **TTL:** Madiun, 9 September 06
+- **TTL:** Madiun, 9 September 2006
 - **Nomer Handphone:** 085143442263
 - **Username GitHub:** @dindarahmawatii
 - **Asal Daerah:** Madiun
