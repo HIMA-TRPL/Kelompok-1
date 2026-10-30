@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### 05 BPH - Alivia Rizka Wardani
-* <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH " alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alivia Rizka Wardani
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi,12-September-2007
@@ -191,13 +191,13 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### 19 PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-Rindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** Anggota
-* **TTL:** TTL
+* **TTL:** Madiun, 31 Agustus 2006
 * **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 20
-* **Asal Daerah:** KOTA/KABUPATEN
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### 20 PSDM - Abdul Aziz Mushthofa
@@ -221,13 +221,13 @@
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ### 22 PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM- Azza A.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Anggota
-* **TTL:** TTL
-* **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 23
-* **Asal Daerah:** KOTA/KABUPATEN
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ## 🤝 Divisi Sosma (Sosial Masyarakat)
@@ -245,10 +245,10 @@
 ### 24 Sosma - Muhammad Rofiqul Anam
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** 
-* **TTL:** TTL
-* **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 25
+* **Jabatan:** Anggota
+* **TTL:** Magetan, 05 Maret 2006
+* **Nomer Handphone:** 085850296348
+* **Username GitHub:** @URofiqanam
 * **Asal Daerah:** KOTA/KABUPATEN
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
@@ -295,13 +295,13 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### 29 PDD - Raditya Alfareeza Purnama
-* <img src="assets/PANITIA/PDD/PDD-Raditya Alfareza p.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PPD-Raditya ALfahreza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareeza Purnama
 * **Jabatan:** Anggota
-* **TTL:** TTL
-* **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 30
-* **Asal Daerah:** KOTA/KABUPATEN
+* **TTL:** Madiun, 04 April 2006
+* **Nomer Handphone:** 085784030358
+* **Username GitHub:** @radityaalfareza
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### 30 PDD - Raihan Firdaus Alfaritsi
@@ -347,13 +347,13 @@
 ## 🕌 Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### 34 DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Andrian Maulana
+* <img src="assets/PANITIA/DKM/DKM-Andrian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Andrian Maulana 
 * **Jabatan:** Koordinator
-* **TTL:** TTL
-* **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 35
-* **Asal Daerah:** KOTA/KABUPATEN
+* **TTL:** Ponorogo, 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @drianmlnaa
+* **Asal Daerah:** Ponororgo
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### 35 DKM - Jimli Dwi Assiddiqi
@@ -460,7 +460,7 @@
 
 ### [45] Volunteer - Galang Suryo Prasetyo
 
-- <img src="assets/PANITIA/Volunteer/" alt="" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunterr-Galang.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Galang Suryo Prasetyo
 - **Jabatan:** Volunteer
 - **TTL:** Tenggarong, 19 februari 2007
