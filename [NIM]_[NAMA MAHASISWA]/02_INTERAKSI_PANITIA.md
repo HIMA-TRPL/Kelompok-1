@@ -338,10 +338,10 @@
 - <img src="assets/PANITIA/PDD/reza.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raditya Alfareeza Purnama
 - **Jabatan:** staff
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** Madiun, 4 maret 2006
+- **Nomer Handphone:** 85784030358
+- **Username GitHub:** radityaalfareza
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 Nama panitia : Raihan Firdaus Alfaritsi
@@ -394,10 +394,10 @@ Daerah asal : Ngawi
 - <img src="assets/PANITIA/DKM/andrian.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Andrian Maulana
 - **Jabatan:** kordinator
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** ponorogo, 19, september 2005
+- **Nomer Handphone:** 089524151260
+- **Username GitHub:** driannmlnaa
+- **Asal Daerah:** ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
@@ -488,7 +488,7 @@ Daerah asal : Ngawi
 - **Jabatan:** Volunteer
 - **TTL:** Magetan, 21 September 2006
 - **Nomer Handphone:** 082142461742
-- **Username GitHub:** -
+- **Username GitHub:** aisyahnurfadillah
 - **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
@@ -503,15 +503,15 @@ Daerah asal : Ngawi
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Galang
+### [44] Volunteer - Galang surya prasetyo
 
 - <img src="assets/PANITIA/Volunteer/galang.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
-- *Nama Panitia:* -
+- *Nama Panitia:* Galang surya prasetyo
 - *Jabatan:* Volunteer
-- *TTL:* -
-- *Nomer Handphone:* -
-- *Username GitHub:* -
-- *Asal Daerah:* -
+- *TTL:* tenggarong, 19 februari 2007
+- *Nomer Handphone:* 081247074623
+- *Username GitHub:* PrassHere
+- *Asal Daerah:* kalimantan timur
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Ervindy Anjuni Nurmasari
@@ -520,7 +520,7 @@ Daerah asal : Ngawi
 - *Nama Panitia:* Ervindy Anjuni Nurmasari
 - *Jabatan:* Volunteer
 - *TTL:* Madiun, 21 Juni 2006
-- *Nomer Handphone:* -
+- *Nomer Handphone:* 85733213487
 - *Username GitHub:* @erov1n
 - *Asal Daerah:* Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
