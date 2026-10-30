@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] 264311001 - ADHINIA ALKURRATU AINNI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_nia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_nia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADHINIA ALKURRATU AINNI
 * **NIM:** 264311001
 * **TTL:** MADIUN, 11 DESEMBER 2007
@@ -471,7 +471,7 @@
 * **Fun Fact:** -
 
 ### [43] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
 * **NIM:** 264311043
 * **TTL:** PONOROGO, 25 OKTOBER 2007
