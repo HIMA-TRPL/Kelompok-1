@@ -213,17 +213,6 @@
 * **Asal Sekolah:** SMKN 1 WONOASRI
 * **Fun Fact:** suka main gitar
 
-### 20. 264311020 - MAHIJA PARAMA URDHA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - MAHIJA PARAMA URDHA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** MAHIJA PARAMA URDHA
-* **NIM:** 264311020
-* **TTL:** PONOROGO, 11 JANUARI 2008
-* **Nomer Handphone:** 085812827530
-* **Nama Kelompok:** LARAVEL
-* **Asal Daerah:** KABUPATEN MADIUN
-* **Asal Sekolah:** SMKS AL-ISLAM JORESAN PONOROGO
-* **Fun Fact:** BAIK
-
 ### 21 264311021 - MUHAMMAD RIDWAN NAZIM
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021 - MUHAMMAD RIDWAN NAZIM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
