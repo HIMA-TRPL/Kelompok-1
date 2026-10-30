@@ -229,7 +229,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Abdul Aziz Mushthofa
-- **Jabatan:** Staff Muda / Ketupel
+- **Jabatan:** Staff Muda
 - **TTL:** Tulungagung, 13 April 2006
 - **Nomer Handphone:** 087823352468
 - **Username GitHub:** @Artemisee77
@@ -251,11 +251,11 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Azza Auliyaul F.
-- **Jabatan:** -
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **Jabatan:** Anggota
+- **TTL:** Madiun, 19 November 2005
+- **Nomer Handphone:** 089523358721
+- **Username GitHub:** @azzauliyaul
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -278,7 +278,7 @@
 - <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Muhammad Rofiqul Anam
 - **Jabatan:** Anggota
-- **TTL:** Magetan, 5 Maret 2006
+- **TTL:** Magetan, 05 Maret 2006
 - **Nomer Handphone:** 085850296348
 - **Username GitHub:** @Rofiqanam
 - **Asal Daerah:** -
@@ -289,7 +289,7 @@
 - <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Edwin Nur Cahyo
 - **Jabatan:** Anggota
-- **TTL:** Madiun, 1 November 2007
+- **TTL:** Madiun, 01 November 2007
 - **Nomer Handphone:** 082334500709
 - **Username GitHub:** @edwinyxxz
 - **Asal Daerah:** Madiun
@@ -332,15 +332,15 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
-### [29] PDD - Raditya Alfareeza Purnama
+### [29] PDD - Raditya Alfareeza Purnama Putra
 
 - <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** Raditya Alfareeza Purnama
-- **Jabatan:** staff
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **Nama Panitia:** Raditya Alfareeza Purnama Putra
+- **Jabatan:** Anggota
+- **TTL:** Madiun, 04 Maret 2006
+- **Nomer Handphone:** 085784030358
+- **Username GitHub:** @radityaalfareza
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - Raihan Firdaus Alfaritsi
@@ -350,7 +350,7 @@
 - **Jabatan:** staff
 - **TTL:** Ngawi, 24 September 2005
 - **Nomer Handphone:** 0895405971949
-- **Username GitHub:** hannnzu
+- **Username GitHub:** @hannnzu
 - **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
@@ -396,10 +396,10 @@
 - <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Andrian Maulana
 - **Jabatan:** kordinator
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** Ponorogo, 19 September 2005
+- **Nomer Handphone:** 089524151260
+- **Username GitHub:** @drianmlnaa
+- **Asal Daerah:** Ponororgo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
@@ -505,15 +505,15 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Galang
+### [44] Volunteer - Galang Surya Prasetyo
 
 - <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** -
+- **Nama Panitia:** Galang Surya Prasetyo
 - **Jabatan:** Volunteer
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** Tenggarong, 19 Februari 2007
+- **Nomer Handphone:** 081247074623
+- **Username GitHub:** PrassHere
+- **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Ervindy Anjuni Nurmasari
