@@ -344,16 +344,13 @@
 - **Asal Daerah:** -
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - Raihan Firdaus Alfaritsi
-
-- <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** Raihan Firdaus Alfaritsi
-- **Jabatan:** staff
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
-<!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
+Nama panitia : Raihan Firdaus Alfaritsi
+Divisi : PDD
+Jabatan : Anggota
+TTL : 24 September 2005
+No.hp : +62 895-4059-71849
+Username github : hannnzu
+Daerah asal : Ngawi
 
 ### [31] PDD - Achmad Alvin Al Falah
 
