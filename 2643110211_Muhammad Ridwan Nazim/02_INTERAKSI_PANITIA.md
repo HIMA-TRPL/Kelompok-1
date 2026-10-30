@@ -337,10 +337,10 @@
 - <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raditya Alfareeza Purnama
 - **Jabatan:** staff
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** Madiun, 4 maret 2006
+- **Nomer Handphone:** 085784030358
+- **Username GitHub:** radityaalfareza
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - Raihan Firdaus Alfaritsi
