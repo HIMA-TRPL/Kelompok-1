@@ -217,7 +217,7 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 
-- <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/rindy.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Rindy Cantika Agustina P.
 - **Jabatan:** -
 - **TTL:** -
@@ -335,7 +335,7 @@
 
 ### [29] PDD - Raditya Alfareeza Purnama
 
-- <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/reza.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raditya Alfareeza Purnama
 - **Jabatan:** staff
 - **TTL:** -
@@ -391,7 +391,7 @@ Daerah asal : Ngawi
 
 ### [34] DKM - Andrian Maulana
 
-- <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/DKM/andrian.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Andrian Maulana
 - **Jabatan:** kordinator
 - **TTL:** -
@@ -505,7 +505,7 @@ Daerah asal : Ngawi
 
 ### [44] Volunteer - Galang
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/galang.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
 - *Nama Panitia:* -
 - *Jabatan:* Volunteer
 - *TTL:* -
