@@ -196,7 +196,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Riyan Zakaria Zulkarnain
-- **Jabatan:** Koor PSDM
+- **Jabatan:** Koordinator 
 - **TTL:** Ponorogo, 7 September 2005
 - **Nomer Handphone:** 085172421215
 - **Username GitHub:** @Riyanzakaria
@@ -207,7 +207,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Mohammad Dani T..png" alt="Muhammad Dani T." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Mohammad Dani T.
-- **Jabatan:** Staff PSDM
+- **Jabatan:** Staff 
 - **TTL:** Denpasar, 21 Maret 2006
 - **Nomer Handphone:** 0895808475151
 - **Username GitHub:** @Danipinion
@@ -218,11 +218,11 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Rindy Cantika Agustina P.
-- **Jabatan:** -
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **Jabatan:** Anggota
+- **TTL:** Madiun, 31 Agustus 2006
+- **Nomer Handphone:** 081553111275
+- **Username GitHub:** @111ndy
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -277,10 +277,10 @@
 
 - <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Muhammad Rofiqul Anam
-- **Jabatan:** -
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
+- **Jabatan:** Anggota
+- **TTL:** Magetan, 5 Maret 2006
+- **Nomer Handphone:** 085850296348
+- **Username GitHub:** @Rofiqanam
 - **Asal Daerah:** -
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
@@ -348,10 +348,10 @@
 - <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raihan Firdaus Alfaritsi
 - **Jabatan:** staff
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **TTL:** Ngawi, 24 September 2005
+- **Nomer Handphone:** 0895405971949
+- **Username GitHub:** hannnzu
+- **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
@@ -490,7 +490,7 @@
 - **Jabatan:** Volunteer
 - **TTL:** Magetan, 21 September 2006
 - **Nomer Handphone:** 082142461742
-- **Username GitHub:** -
+- **Username GitHub:** @aisyahnurfadillah
 - **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
@@ -522,7 +522,7 @@
 - **Nama Panitia:** Ervindy Anjuni Nurmasari
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 21 Juni 2006
-- **Nomer Handphone:** -
+- **Nomer Handphone:** 085733213487
 - **Username GitHub:** @erov1n
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
