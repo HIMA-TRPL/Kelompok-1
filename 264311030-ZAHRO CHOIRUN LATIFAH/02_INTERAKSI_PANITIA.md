@@ -399,7 +399,7 @@
 ## 🙋 Volunteer
 
 ### 39 Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER-septian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-septian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12-September-2006
@@ -409,7 +409,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### 40 Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER-indah ayu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-indah ayu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27-Desember-2006
@@ -419,7 +419,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### 41 Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER-kunni sofya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-kunni sofya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 4-Juli-2006
@@ -429,7 +429,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### 42 Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER-aisyah nur fadhilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-aisyah nur fadhilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer
 * **TTL:** magetan,21-September,2006
@@ -439,7 +439,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### 43 Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/Volunteer/Nadia volunteer.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/Nadia volunteer.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
 * **TTL:** Madiun,1-September-2006
@@ -449,7 +449,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### 44 Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER-Ervindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Ervindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
@@ -460,7 +460,7 @@
 
 ### [45] Volunteer - Galang Suryo Prasetyo
 
-- <img src="assets/PANITIA/Volunteer/Volunterr-Galang.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/VOLUNTEER/Volunterr-Galang.jpeg" alt="" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Galang Suryo Prasetyo
 - **Jabatan:** Volunteer
 - **TTL:** Tenggarong, 19 februari 2007
@@ -471,7 +471,7 @@
 
 ### [46] Volunteer - Nabil Sunu Widyadhana
 
-- <img src="assets/PANITIA/Volunteer/VOLUNTEER-nabil sunu.jpeg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-nabil sunu.jpeg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nabil Sunu Widyadhana
 - **Jabatan:** Volunteer
 - **TTL:** Bekasi, 15 Maret 2006
