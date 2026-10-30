@@ -51,7 +51,7 @@
 
 ### [05] BPH - Alivia Rizka Wardani
 
-- <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/BPH/aliviajpeg" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Alivia Rizka Wardani
 - **Jabatan:** Bendahara 1
 - **TTL:** Ngawi, 12 September 2007
