@@ -74,7 +74,7 @@
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
-### [07] Dagri - Alvian Dwiky Putra S
+### [07] Dagri - Alvian Dwiky Putra Santoso
 
 - <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.png" alt="Alvian Dwiky Putra S" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Alvian Dwiky Putra S
