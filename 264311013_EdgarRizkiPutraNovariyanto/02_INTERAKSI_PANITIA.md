@@ -347,8 +347,8 @@
 
 - <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raihan Firdaus Alfaritsi
-- **Jabatan:** staff
-- **TTL:** -
+- **Jabatan:** Anggota
+- **TTL:** Ngawi, 24 September 2006
 - **Nomer Handphone:** -
 - **Username GitHub:** -
 - **Asal Daerah:** -
@@ -505,10 +505,10 @@
 - **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Galang
+### [44] Volunteer - Galang Prasetyo
 
 - <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** -
+- **Nama Panitia:** Galang Prasetyo
 - **Jabatan:** Volunteer
 - **TTL:** -
 - **Nomer Handphone:** -
