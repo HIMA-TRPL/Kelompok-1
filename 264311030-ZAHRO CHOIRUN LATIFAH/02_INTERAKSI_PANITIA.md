@@ -458,27 +458,27 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Galang
-
-- <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** -
-- **Jabatan:** Volunteer
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
-<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
-
-### [46] Volunteer - 
+### [45] Volunteer - Galang Suryo Prasetyo
 
 - <img src="assets/PANITIA/Volunteer/" alt="" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** 
+- **Nama Panitia:** Galang Suryo Prasetyo
 - **Jabatan:** Volunteer
-- **TTL:** 
-- **Nomer Handphone:** -
-- **Username GitHub:** 
-- **Asal Daerah:** 
-<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini --
+- **TTL:** Tenggarong, 19 februari 2007
+- **Nomer Handphone:** 081247074623
+- **Username GitHub:** Prasehere
+- **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Nabil Sunu Widyadhana
+
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER-nabil sunu.jpeg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Nabil Sunu Widyadhana
+- **Jabatan:** Volunteer
+- **TTL:** Bekasi, 15 Maret 2006
+- **Nomer Handphone:** 089503425359
+- **Username GitHub:** SunuW
+- **Asal Daerah:** Ponorogo
+<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
 > **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
