@@ -170,7 +170,7 @@
 
 - <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Cristian Reynaldi
-- **Jabatan:** Perkap
+- **Jabatan:** Anggota
 - **TTL:** Jakarta, 18 Januari 2007
 - **Nomer Handphone:** 088296706472
 - **Username GitHub:** @crysaldi
