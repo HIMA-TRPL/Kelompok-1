@@ -250,14 +250,15 @@
 
 ### [22] PSDM - Azza Auliyaul F.
 
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
-* *Nama Panitia:* Azza Auliyaul F.
-* *Jabatan:* Anggota PSDM
-* *TTL:* Madiun, 19 November 2005
-* *Nomer Handphone:* 089523358721
-* *Username GitHub:* @azzaauliyaul
-* *Asal Daerah:* Rejosari, Sawahan, Madiun
-<!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
+- <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Azza Auliyaul F.
+- **Jabatan:** Anggota
+- **TTL:** Madiun, 19 November 2005
+- **Nomer Handphone:** 089523358721
+- **Username GitHub:** @azzauliyaul
+- **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
