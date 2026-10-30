@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ###  01   264311001  -  ADHINIA ALKURRATU AINNI 
-* <img src=" assets/MAHASISWA_BARU/Kelas_1A/nia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/nia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:**  ADHINIA ALKURRATU AINNI 
 * **NIM:**  264311001 
 * **TTL:**  MADIUN,11-12-2007 
