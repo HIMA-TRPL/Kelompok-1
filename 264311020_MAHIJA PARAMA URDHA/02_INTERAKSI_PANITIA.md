@@ -50,7 +50,7 @@
 
 ### 05. BPH - ALIVIA RIZKA WARDANI
 
-- <img src="assets/PANITIA/BPH/BPH - ALIVIA RIZKA WARDANI." alt="ALIVIA RIZKA WARDANI" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/BPH/BPH - ALIVIA RIZKA WARDANI.jpeg" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** ALIVIA RIZKA WARDANI
 - **Jabatan:** BENDAHARA 1
 - **TTL:** Ngawi, 12 SEPTEMBER 2007
