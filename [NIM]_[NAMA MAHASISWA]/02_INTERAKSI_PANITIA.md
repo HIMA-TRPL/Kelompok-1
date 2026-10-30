@@ -219,11 +219,11 @@
 
 - <img src="assets/PANITIA/PSDM/rindy.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Rindy Cantika Agustina P.
-- **Jabatan:** -
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **Jabatan:** Anggota Divisi PSDM 
+- **TTL:** Madiun, 31 Agustus 2006
+- **Nomer Handphone:** 081553111275
+- **Username GitHub:** 111ndy
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -252,11 +252,11 @@
 
 - <img src="assets/PANITIA/PSDM/azza.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Azza Auliyaul F.
-- **Jabatan:** -
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+- **Jabatan:** Staff
+- **TTL:** Madiun, 19 November 2005
+- **Nomer Handphone:** 89523358721
+- **Username GitHub:** azzaauliyaul
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
