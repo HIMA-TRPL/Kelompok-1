@@ -89,7 +89,7 @@
 
 - <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Dzakwan Daris Fakhruddin
-- **Jabatan:** anggota
+- **Jabatan:** Anggota
 - **TTL:** Madiun, 13 April 06
 - **Nomer Handphone:** 085163200636
 - **Username GitHub:** @dzadafa
@@ -181,10 +181,10 @@
 
 - <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Atha Aryasatya
-- **Jabatan:** Staff muda
+- **Jabatan:** Staff Muda
 - **TTL:** Madiun, 22 Februari 2005
 - **Nomer Handphone:** 0896081887272
-- **Username GitHub:** @athaaryasatya
+- **Username GitHub:** @AthaAryasatya
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
@@ -196,7 +196,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Riyan Zakaria Zulkarnain
-- **Jabatan:** Koordinator 
+- **Jabatan:** Koordinator
 - **TTL:** Ponorogo, 7 September 2005
 - **Nomer Handphone:** 085172421215
 - **Username GitHub:** @Riyanzakaria
@@ -207,7 +207,7 @@
 
 - <img src="assets/PANITIA/PSDM/PSDM - Mohammad Dani T..png" alt="Muhammad Dani T." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Mohammad Dani T.
-- **Jabatan:** Staff 
+- **Jabatan:** Staff Muda
 - **TTL:** Denpasar, 21 Maret 2006
 - **Nomer Handphone:** 0895808475151
 - **Username GitHub:** @Danipinion
@@ -281,7 +281,7 @@
 - **TTL:** Magetan, 05 Maret 2006
 - **Nomer Handphone:** 085850296348
 - **Username GitHub:** @Rofiqanam
-- **Asal Daerah:** Magetan 
+- **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
@@ -310,7 +310,7 @@
 
 - <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Lutfilah Ahmad
-- **Jabatan:** Staf Muda
+- **Jabatan:** Staff Muda
 - **TTL:** Magetan, 30 Januari 2007
 - **Nomer Handphone:** 085895773246
 - **Username GitHub:** @lutfillahh
@@ -347,7 +347,7 @@
 
 - <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raihan Firdaus Alfaritsi
-- **Jabatan:** staff
+- **Jabatan:** Anggota
 - **TTL:** Ngawi, 24 September 2005
 - **Nomer Handphone:** 0895405971949
 - **Username GitHub:** @hannnzu
@@ -358,7 +358,7 @@
 
 - <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Achmad Alvin Al Falah
-- **Jabatan:** staff
+- **Jabatan:** Staff Muda
 - **TTL:** Ponorogo, 18 Januari 2006
 - **Nomer Handphone:** 085230210357
 - **Username GitHub:** @AchmadAlvin
@@ -369,7 +369,7 @@
 
 - <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Daffa Hafist Atha Kuncoro
-- **Jabatan:** Staff muda
+- **Jabatan:** Staff Muda
 - **TTL:** Surabaya, 16 Januari 07
 - **Nomer Handphone:** 081329827262
 - **Username GitHub:** @Hafist-ak08
@@ -395,7 +395,7 @@
 
 - <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Andrian Maulana
-- **Jabatan:** kordinator
+- **Jabatan:** Koordinator
 - **TTL:** Ponorogo, 19 September 2005
 - **Nomer Handphone:** 089524151260
 - **Username GitHub:** @drianmlnaa
@@ -406,7 +406,7 @@
 
 - <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Jimli Dwi Assiddiqi
-- **Jabatan:** staff
+- **Jabatan:** Staff Muda
 - **TTL:** Mojokerto, 29 Juli 2006
 - **Nomer Handphone:** 081515667521
 - **Username GitHub:** @jimlydwi
