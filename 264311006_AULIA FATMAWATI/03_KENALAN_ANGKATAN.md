@@ -64,18 +64,6 @@
 - **Asal Sekolah:** SMK MA'ARIF DS
 - **Fun Fact:** HIKING
 
-### [06] [264311006] - [AULIA FATMAWATI]
-
-- <img src="assets/MAHASISWA_BARU/Kelas_1A/aul.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-- **Nama Lengkap:** AULIA FATMAWATI
-- **NIM:** 264311006
-- **TTL:** MADIUN, 09 NOVEMBER 2007
-- **Nomer Handphone:** 08132605112
-- **Nama Kelompok:** LARAVEL
-- **Asal Daerah:** KABUPATEN MADIUN
-- **Asal Sekolah:** SMK BP SUBULUL HUDA
-- **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
-
 ### [07] [264311007] - [AURELYSTA BUNGA DHIAS MAWARNI]
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1A/aurel.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
