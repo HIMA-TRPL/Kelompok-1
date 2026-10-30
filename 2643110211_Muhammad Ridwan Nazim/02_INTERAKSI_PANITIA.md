@@ -216,7 +216,7 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Rindy Cantika Agustina P.
 * *Jabatan:* Anggota PSDM
 * *TTL:* Madiun, 31 Agustus 2006
@@ -334,7 +334,7 @@
 
 ### [29] PDD - Raditya Alfareeza Purnama
 
-- <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raditya Alfareeza Purnama
 - **Jabatan:** staff
 - **TTL:** Madiun, 4 maret 2006
@@ -393,7 +393,7 @@
 
 ### [34] DKM - Andrian Maulana
 
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Andrian Maulana
 * *Jabatan:* Koordinator DKM
 * *TTL:* Ponorogo, 19 September 2005
@@ -507,7 +507,7 @@
 
 ### [44] Volunteer -  Galang Surya Prasetyo
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.png" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:**  galang surya prasetyo
 - **Jabatan:** Volunteer
 - **TTL:** tenggarong, 19 februari 2007
