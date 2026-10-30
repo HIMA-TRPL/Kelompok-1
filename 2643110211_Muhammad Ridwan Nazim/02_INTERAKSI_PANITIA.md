@@ -522,7 +522,7 @@
 - **Nama Panitia:** Ervindy Anjuni Nurmasari
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 21 Juni 2006
-- **Nomer Handphone:** -
+- **Nomer Handphone:** 85733213487
 - **Username GitHub:** @erov1n
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
