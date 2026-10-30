@@ -1008,18 +1008,6 @@
 - **Asal Sekolah:** SMAN 1 BALONG
 - **Fun Fact:** SUKA NGEGAME
 
-### [84] [264311084] - [NAMA_LENGKAP_MAHASISWA_BARU]
-
-- <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-- **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-- **NIM:** 264311084
-- **TTL:** [TTL_MAHASISWA_BARU]
-- **Nomer Handphone:** [NOMER_HANDPHONE]
-- **Nama Kelompok:** [NAMA_KELOMPOK]
-- **Asal Daerah:** [KOTA/KABUPATEN]
-- **Asal Sekolah:** [ASAL_SEKOLAH]
-- **Fun Fact:** [FUN_FACT]
-
 ### [85] [264311085] - SYAHGA REYHAN SURYA PRATAMA
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1C/syahga.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
