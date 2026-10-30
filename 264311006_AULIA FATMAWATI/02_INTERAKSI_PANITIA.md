@@ -184,7 +184,7 @@
 - **Jabatan:** Staff muda
 - **TTL:** Madiun, 22 Februari 2005
 - **Nomer Handphone:** 0896081887272
-- **Username GitHub:** @AthaAryasatya
+- **Username GitHub:** @athaaryasatya
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
