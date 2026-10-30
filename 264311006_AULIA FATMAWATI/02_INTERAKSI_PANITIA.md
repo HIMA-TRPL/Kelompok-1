@@ -281,7 +281,7 @@
 - **TTL:** Magetan, 05 Maret 2006
 - **Nomer Handphone:** 085850296348
 - **Username GitHub:** @Rofiqanam
-- **Asal Daerah:** -
+- **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
