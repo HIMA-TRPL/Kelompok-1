@@ -346,7 +346,7 @@
 
 ### [30] PDD - Raihan Firdaus Alfaritsi
 
-- <img src="assets/PANITIA/PDD/.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/.jpeg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raihan Firdaus Alfaritsi
 - **Jabatan:** staff
 - **TTL:** Ngawi, 25 September 2005
