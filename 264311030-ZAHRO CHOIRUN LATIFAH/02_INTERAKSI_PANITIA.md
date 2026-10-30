@@ -308,10 +308,10 @@
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** Anggota
-* **TTL:** TTL
-* **Nomer Handphone:** NOMER HANDPHONE
-* **Username GitHub:** @USERNAME GITHUB 31
-* **Asal Daerah:** KOTA/KABUPATEN
+* **TTL:** 24 September 2005
+* **Nomer Handphone:** +62 895-4059-71849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### 31 PDD - Achmad Alvin Al Falah
@@ -449,7 +449,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### 44 Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER-Ervindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
@@ -471,13 +471,13 @@
 
 ### [46] Volunteer - 
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/" alt="" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** 
 - **Jabatan:** Volunteer
-- **TTL:** Madiun, 21 Juni 2006
+- **TTL:** 
 - **Nomer Handphone:** -
-- **Username GitHub:** @erov1n
-- **Asal Daerah:** Madiun
+- **Username GitHub:** 
+- **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini --
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
