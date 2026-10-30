@@ -322,18 +322,6 @@
 * **Asal Daerah:**  BOJONEGORO 
 * **Asal Sekolah:**  SMAN 1 KASIMAN 
 * **Fun Fact:**  PENGEN JAGO VIBE CODING 
-
-###  30   264311030  -  ZAHRO CHOIRUN LATIFAH 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/zzah.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:**  ZAHRO CHOIRUN LATIFAH 
-* **NIM:**  264311030 
-* **TTL:**  MADIUN,15-05-2007 
-* **Nomer Handphone:**  089622274040 
-* **Nama Kelompok:**  LARAVEL 
-* **Asal Daerah:**  MADIUN 
-* **Asal Sekolah:**  MAN 1 KOTA MADIUN 
-* **Fun Fact:**  INTROVERT 
-
 ---
 
 ## 🏠 Kelas 1B
